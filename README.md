@@ -1,6 +1,6 @@
 ### Hi there, I'm Bhanu [website] 👋
 
-[![Website](https://img.shields.io/website?label=keepitsimplestupid&style=for-the-badge&url=https%3A%2F%2Fkeepitsimplestupid.org)](https://keepitsimplestupid.org/)
+[![Website](https://img.shields.io/website?label=keepitsimplestupid&style=for-the-badge&url=https%3A%2F%2Fkeepitsimplestupid.club)](https://keepitsimplestupid.club/)
 
 > Let no opportunity be too small for your time and let no opportunity be too big for your possibilities.
 
@@ -46,7 +46,7 @@
 
 </details>
 
-[website]: https://keepitsimplestupid.org/
+[website]: https://keepitsimplestupid.club/
 [instagram]: https://www.instagram.com/b.n0309/
 [linkedin]: https://www.linkedin.com/in/bhanugoban-nadar/
 
