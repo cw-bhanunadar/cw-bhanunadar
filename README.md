@@ -4,7 +4,7 @@
 
 > Let no opportunity be too small for your time and let no opportunity be too big for your possibilities.
 
-## I'm a Engineer, Student, and a Good Friend
+## I'm a Engineer, Student, and a Teacher
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
