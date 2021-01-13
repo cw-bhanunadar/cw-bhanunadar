@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love to read and play guitar.
-- 🥅 2020 Goals: To work on some interesting projects and learn guitar properly.
+- 🥅 2021 Goals: To improve software engineer skills and grow as a developer.
 
 
 ### Connect with me:
