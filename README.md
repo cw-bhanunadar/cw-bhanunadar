@@ -46,7 +46,7 @@
 
 </details>
 
-[website]: https://keepitsimplestupid.club/
+[website]: https://blog.bhanunadar.com/
 [instagram]: https://www.instagram.com/b.n0309/
 [linkedin]: https://www.linkedin.com/in/bhanugoban-nadar/
 
